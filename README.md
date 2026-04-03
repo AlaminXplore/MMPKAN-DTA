@@ -10,8 +10,8 @@
 <h2></h2>
 <h2>📂 Repository Contents</h2>
 <ul>
-  <li><strong>📊 Data</strong>– Training dataset files. </li>
-  <li><strong>💻 Code</strong>– Source code and scripts for the MMPKAN-DTA framework. </li>
+  <li><strong>📊 datasets</strong>– Training dataset files. </li>
+  <li><strong>💻 code</strong>– Source code and scripts for the MMPKAN-DTA framework. </li>
 </ul> 
 <h2>🔀 Split Dataset for Both Warm- and Cold-start Scenarios</h2>
 <pre><code>python code/cold_split.py</code></pre>
@@ -32,7 +32,7 @@
   - **novel-prot**  
   - **novel-pair**  
 
-> ⚠️ Ensure the dataset files are correctly placed in the **Data** folder before executing the script.
+> ⚠️ Ensure the dataset files are correctly placed in the **datasets** folder before executing the script.
 
 ---
 <h2>🗺 Generation of Pre-trained Embeddings</h2>
