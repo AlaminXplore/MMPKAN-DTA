@@ -15,13 +15,6 @@
   <li><strong>📊 Data</strong>– Training dataset files. </li>
   <li><strong>💻 Code</strong>– Source code and scripts for the MMPKAN-DTA framework. </li>
 </ul> 
-
----
-<h2>🗺 Generation of Pre-trained models</h2>
-<pre><code>python pretrained/chemberta_pretraiend.py</code></pre>
-<pre><code>python pretrained/esmC_pretraiend.py</code></pre>
-<pre><code>python pretrained/esm2_map.py</code></pre>
-
 ---
 <h2>🔀 Warm-start and Cold-start Dataset Splits</h2>
 <pre><code>python code/cold_split.py</code></pre>
@@ -45,6 +38,10 @@
 > ⚠️ Ensure the dataset files are correctly placed in the **Data** folder before executing the script.
 
 ---
+<h2>🗺 Generation of Pre-trained Embeddings</h2>
+<pre><code>python pretrained/chemberta_pretraiend.py</code></pre>
+<pre><code>python pretrained/esmC_pretraiend.py</code></pre>
+<pre><code>python pretrained/esm2_map.py</code></pre>
 <h2>▶️ Run the Code</h2>
 
 Instructions for training, evaluation, and inference will be added here.
