@@ -7,8 +7,6 @@
 <p align="center"><em>Figure 1. MMPKAN-DTA model architecture.</em></p>
 
 <p>This repository hosts <strong>MMPKAN-DTA</strong>, a deep learning framework for predicting drug–target affinities in drug discovery. Implemented in Python, the model leverages <strong>pretrained molecular and protein models</strong> alongside <strong>Kolmogorov–Arnold Networks (KAN)</strong> to achieve robust and reliable affinity predictions.</p>
-
----
 <h2></h2>
 <h2>📂 Repository Contents</h2>
 <ul>
