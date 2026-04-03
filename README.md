@@ -37,10 +37,10 @@
 
 - **Output**  
   The script generates **training**, **validation**, and **test** sets for:  
-  - **Warm-start**  
-  - **Cold-start: unseen drug**  
-  - **Cold-start: unseen protein**  
-  - **Cold-start: all unseen**  
+  - **warm**  
+  - **novel-drug**  
+  - **novel-prot**  
+  - **novel-pair**  
 
 > ⚠️ Ensure the dataset files are correctly placed in the **Data** folder before executing the script.
 
