@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Adjust width as needed (e.g., 800–1100) -->
-  <img src="images/Figure 1.tiff" alt="Model Architecture" width="900">
+  <img src="images/MMPKAN-DTA.jpg" alt="Model Architecture" width="900">
 </p>
 <p align="center"><em>Figure 1. MMPKAN-DTA model architecture.</em></p>
 
